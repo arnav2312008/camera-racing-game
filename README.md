@@ -1,1 +1,2 @@
-# camera-racing-game
+# synchronousBallMovement
+Ball moving synchronously
